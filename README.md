@@ -1,2 +1,21 @@
-# sales-forecasting
-This project analyzes historical sales data and forecasts future sales using time series analysis and an ARIMA model. Trend and seasonality patterns are examined, and forecasted results are evaluated using Mean Absolute Error (MAE).
+# Sales Forecasting Using Time Series Analysis
+
+## Objective
+To analyze historical sales data and forecast future sales using time series techniques.
+
+## Dataset
+Superstore Sales Dataset
+
+## Analysis Performed
+- Monthly sales aggregation
+- Trend and seasonality decomposition
+- Sales forecasting using ARIMA
+
+## Model Used
+- ARIMA (AutoRegressive Integrated Moving Average)
+
+## Evaluation Metric
+- Mean Absolute Error (MAE)
+
+## Conclusion
+The model effectively captured sales patterns and produced reliable short-term forecasts.
